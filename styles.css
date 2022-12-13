@@ -15,9 +15,15 @@ footer {
     margin: 0 auto;
 }
 
+.card-img-top {
+    object-fit: contain;
+}
+
 .signUp form {
     margin: 35px auto;
     background-color: #f2f2f2;
     padding: 25px;
     border-radius: 7px;
 }
+
+/* to be continued */
